@@ -1,4 +1,39 @@
 window.BRETT_DATA = {
+ "residencies": [
+  {
+   "name": "Estelle",
+   "city": "Scottsdale, AZ"
+  },
+  {
+   "name": "Kill Club",
+   "city": "Scottsdale, AZ"
+  },
+  {
+   "name": "The Montauk",
+   "city": "Scottsdale, AZ"
+  },
+  {
+   "name": "The Hot Chick",
+   "city": "Scottsdale, AZ"
+  },
+  {
+   "name": "Barstool Scottsdale",
+   "city": "Scottsdale, AZ"
+  },
+  {
+   "name": "American Junkie",
+   "city": "Hermosa Beach, CA"
+  },
+  {
+   "name": "Boots in the Park",
+   "city": "Touring Festival"
+  },
+  {
+   "name": "Party in the Park",
+   "city": "Albuquerque, NM"
+  }
+ ],
+ "socials": [],
  "artists": [
   "Armin van Buuren",
   "Hardwell",

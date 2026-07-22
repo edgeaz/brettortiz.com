@@ -8,6 +8,11 @@ const countIO=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)r
 
 $('#releaseStrip').innerHTML=(D.releases||[]).map(r=>`<article class="release"><small>${r.type} · ${r.year}</small><strong>${r.title}</strong><a href="${r.spotify}" target="_blank" rel="noopener">OPEN ON SPOTIFY ↗</a></article>`).join('');
 
+const resi=D.residencies||[];
+if(resi.length){const seq=`<span class="resi-item hl">CURRENT RESIDENCIES</span>`+resi.map(r=>`<span class="resi-item">${r.name}</span>`).join('');$('#resiTicker').innerHTML=seq+seq;$('#resiGrid').innerHTML=resi.map(r=>`<div class="resi-card"><strong>${r.name}</strong><span>${r.city}</span></div>`).join('')}else{$('.resi-ticker').style.display='none';$('.resi-title').style.display='none'}
+const socials=D.socials||[];
+if(socials.length){$('#footSocial').innerHTML=socials.map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`).join('');$('#bookSocial').innerHTML=socials.map(s=>`<a class="btn glass social-btn" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`).join('')}
+
 let artistLimit=48;
 function renderArtists(){const q=$('#artistSearch').value.toLowerCase();const all=(D.artists||[]).filter(a=>a.toLowerCase().includes(q));const list=q?all:all.slice(0,artistLimit);$('#artistCount').textContent=`${all.length} artists`;$('#artistCloud').innerHTML=list.map((a,i)=>`<span class="artist-chip" style="animation-delay:${Math.min(i,35)*.018}s">${a}</span>`).join('');$('#showArtists').style.display=!q&&artistLimit<all.length?'block':'none'}
 $('#artistSearch').addEventListener('input',renderArtists);$('#showArtists').addEventListener('click',()=>{artistLimit=(D.artists||[]).length;renderArtists()});renderArtists();

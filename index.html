@@ -51,6 +51,8 @@
  <div><strong>∞</strong><span>Nights remembered</span></div>
 </section>
 
+<div class="resi-ticker" aria-label="Current residencies"><div class="resi-track" id="resiTicker"></div></div>
+
 <section class="section music-section" id="music">
  <div class="section-title reveal"><p class="eyebrow">LISTEN</p><h2>The sound of Brett Ortiz</h2><p>Official releases, mixes and live audio—without leaving the site.</p></div>
  <div class="player-grid">
@@ -72,7 +74,7 @@
 </section>
 
 <section class="section artists-section" id="artists">
- <div class="section-title reveal"><p class="eyebrow">SHARED STAGES</p><h2>169 artists—and counting</h2><p>Direct support, opening sets, festival lineups and shared bills across more than two decades.</p></div>
+ <div class="section-title reveal"><p class="eyebrow">SHARED STAGES</p><h2>169 artists—and counting</h2><p>Direct support and opening sets across more than two decades.</p></div>
  <div class="artist-controls reveal"><input id="artistSearch" type="search" placeholder="Find an artist…"><span id="artistCount"></span></div>
  <div class="artist-cloud" id="artistCloud"></div><button class="show-more" id="showArtists">Show full artist archive</button>
 </section>
@@ -98,9 +100,12 @@
  <p class="eyebrow">BOOKINGS · PRESS · ARCHIVE</p><h2>Put Brett Ortiz on the bill.</h2>
  <p>Booking inquiries, media requests, collaborations, and flyer or photo submissions.</p>
  <div class="hero-actions"><a class="btn hot" href="mailto:contact@brettortiz.com">contact@brettortiz.com</a><a class="btn glass" href="#music">Listen first</a></div>
+ <div class="book-social" id="bookSocial"></div>
+ <p class="resi-title">CURRENT RESIDENCIES</p>
+ <div class="resi-grid" id="resiGrid"></div>
 </section>
 </main>
-<footer><img src="assets/brett-ortiz-logo.png" alt=""><span>© <span id="year"></span> Brett Ortiz. A living 25-year archive.</span></footer>
+<footer><img src="assets/brett-ortiz-logo.png" alt=""><div class="foot-social" id="footSocial"></div><span>© <span id="year"></span> Brett Ortiz. A living 25-year archive.</span></footer>
 <div class="lightbox" id="lightbox" aria-hidden="true"><button id="closeLightbox">×</button><img id="lightboxImage" alt="Expanded event flyer"></div>
 <div class="event-modal" id="eventModal" aria-hidden="true" role="dialog" aria-labelledby="modalTitle">
   <div class="event-modal-card">
