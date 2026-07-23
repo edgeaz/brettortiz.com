@@ -2,34 +2,42 @@ window.BRETT_DATA = {
  "residencies": [
   {
    "name": "Estelle",
+   "ig": "https://www.instagram.com/estellescottsdale",
    "city": "Scottsdale, AZ"
   },
   {
    "name": "Kill Club",
+   "ig": "https://www.instagram.com/killclubaz",
    "city": "Scottsdale, AZ"
   },
   {
    "name": "The Montauk",
+   "ig": "https://www.instagram.com/themontaukaz",
    "city": "Scottsdale, AZ"
   },
   {
    "name": "The Hot Chick",
+   "ig": "https://www.instagram.com/thehotchickaz",
    "city": "Scottsdale, AZ"
   },
   {
    "name": "Barstool Scottsdale",
+   "ig": "https://www.instagram.com/barstoolscottsdale",
    "city": "Scottsdale, AZ"
   },
   {
    "name": "American Junkie",
+   "ig": "https://www.instagram.com/americanjunkiehb",
    "city": "Hermosa Beach, CA"
   },
   {
    "name": "Boots in the Park",
+   "ig": "https://www.instagram.com/bootsinthepark",
    "city": "Touring Festival"
   },
   {
    "name": "Party in the Park",
+   "ig": "https://www.instagram.com/partyinthepark_fest",
    "city": "Touring Festival"
   }
  ],

@@ -16,7 +16,7 @@ if(upcoming.length){$('#upcomingGrid').innerHTML=upcoming.map(u=>`<article class
 $('#pressList').innerHTML=(D.press||[]).map(p=>`<a class="press-row reveal" href="${p.url}" target="_blank" rel="noopener"><span class="press-year">${p.year}</span><strong>${p.title}</strong><span class="press-type">${p.type}</span><span class="press-arrow">↗</span></a>`).join('');$$('#pressList .reveal').forEach(x=>io.observe(x));
 
 const resi=D.residencies||[];
-if(resi.length){const seq=`<span class="resi-item hl">CURRENT RESIDENCIES</span>`+resi.map(r=>`<span class="resi-item">${r.name}</span>`).join('');$('#resiTicker').innerHTML=seq+seq;$('#resiGrid').innerHTML=resi.map(r=>`<div class="resi-card"><strong>${r.name}</strong><span>${r.city}</span></div>`).join('')}else{$('.resi-ticker').style.display='none';$('.resi-title').style.display='none'}
+if(resi.length){$('#resiTicker').innerHTML=`<span class="resi-item hl">CURRENT RESIDENCIES</span>`+resi.map(r=>r.ig?`<a class="resi-item" href="${r.ig}" target="_blank" rel="noopener">${r.name}</a>`:`<span class="resi-item">${r.name}</span>`).join('');$('#resiGrid').innerHTML=resi.map(r=>{const inner=`<strong>${r.name}</strong><span>${r.city}</span>`;return r.ig?`<a class="resi-card" href="${r.ig}" target="_blank" rel="noopener">${inner}</a>`:`<div class="resi-card">${inner}</div>`}).join('')}else{$('.resi-ticker').style.display='none';$('.resi-title').style.display='none'}
 const socials=D.socials||[];
 if(socials.length){$('#footSocial').innerHTML=socials.map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`).join('');$('#bookSocial').innerHTML=socials.map(s=>`<a class="btn glass social-btn" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`).join('')}
 
