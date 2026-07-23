@@ -33,7 +33,12 @@ window.BRETT_DATA = {
    "city": "Touring Festival"
   }
  ],
- "socials": [],
+ "socials": [
+  {
+   "label": "Instagram",
+   "url": "https://www.instagram.com/itsbrettortiz"
+  }
+ ],
  "artists": [
   "Armin van Buuren",
   "Hardwell",
