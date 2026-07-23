@@ -271,6 +271,18 @@ window.BRETT_DATA = {
  ],
  "upcoming": [
   {
+   "date": "2026-07-24",
+   "name": "Gareth Emery",
+   "tag": "Direct support",
+   "venue": "Sunbar",
+   "city": "Tempe, AZ",
+   "artists": [
+    "Gareth Emery",
+    "Brett Ortiz"
+   ],
+   "url": "https://relentlessbeats.com/events/gareth-emery-sunbar-072426"
+  },
+  {
    "date": "2026-08-15",
    "end_date": "2026-08-16",
    "name": "The OC Smoke Show 2026",
