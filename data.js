@@ -212,34 +212,181 @@ window.BRETT_DATA = {
  ],
  "releases": [
   {
+   "title": "Ella Langley — Choosin' Texas (Brett Ortiz Remix)",
+   "year": "2026",
+   "type": "Remix",
+   "platform": "SoundCloud",
+   "url": "https://soundcloud.com/brettortiz/ella-langley-choosin-texas-1"
+  },
+  {
    "title": "Calling Me",
    "year": "2025",
    "type": "Single",
-   "spotify": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+   "platform": "Audiomack",
+   "url": "https://audiomack.com/brett-ortiz-2/song/calling-me"
   },
   {
    "title": "Wasteland",
    "year": "2023",
    "type": "Single",
-   "spotify": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+   "platform": "Spotify",
+   "url": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
   },
   {
    "title": "Please Stand Up",
    "year": "2023",
    "type": "Single",
-   "spotify": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+   "platform": "Apple Music",
+   "url": "https://music.apple.com/us/album/please-stand-up-single/1670694877"
   },
   {
    "title": "Perspective",
    "year": "2023",
    "type": "Single",
-   "spotify": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+   "platform": "Apple Music",
+   "url": "https://music.apple.com/us/album/perspective-single/1665737253"
   },
   {
    "title": "Speechless — Brett Ortiz & Dann Gallo Remix",
    "year": "2023",
    "type": "Remix",
-   "spotify": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+   "platform": "Spotify",
+   "url": "https://open.spotify.com/artist/4ASBh3QvAhIplYbIfLeFTw"
+  },
+  {
+   "title": "Fanática (feat. F.R.ED) — Extended Remix",
+   "year": "2022",
+   "type": "Remix",
+   "platform": "Traxsource",
+   "url": "https://www.traxsource.com/track/10623378/fanatica-feat-f-r-ed-extended-remix"
+  }
+ ],
+ "upcoming": [
+  {
+   "date": "2026-08-15",
+   "end_date": "2026-08-16",
+   "name": "The OC Smoke Show 2026",
+   "venue": "The Outpost at Rancho Mission Viejo Riding Park",
+   "city": "San Juan Capistrano, CA",
+   "artists": [
+    "Kane Brown",
+    "Dustin Lynch",
+    "LOCASH",
+    "Lil Jon",
+    "Bow Wow",
+    "Soulja Boy",
+    "Ying Yang Twins",
+    "Montell Jordan",
+    "Ginuwine",
+    "Petey Pablo",
+    "MIMS"
+   ],
+   "url": "https://www.jambase.com/festival/the-oc-smoke-show-2026"
+  },
+  {
+   "date": "2026-10-17",
+   "name": "Party in the Park Tucson 2026",
+   "venue": "Rillito Park Race Track",
+   "city": "Tucson, AZ",
+   "artists": [
+    "Wiz Khalifa",
+    "Waka Flocka Flame",
+    "B.o.B",
+    "Petey Pablo"
+   ],
+   "url": "https://www.jambase.com/festival/party-in-the-park-tucson-2026"
+  }
+ ],
+ "press": [
+  {
+   "year": "2026",
+   "title": "Phoenix New Times — Boots in the Park Gilbert guide",
+   "type": "Press mention",
+   "url": "https://www.phoenixnewtimes.com/music/boots-in-the-park-gilbert-2026-lineup-tickets-20653549"
+  },
+  {
+   "year": "2022",
+   "title": "Phoenix New Times — Sander van Doorn concert preview",
+   "type": "Press mention",
+   "url": "https://www.phoenixnewtimes.com/music/best-phoenix-concerts-this-weekend-february-18-21-2022-13068944"
+  },
+  {
+   "year": "2018",
+   "title": "EDM Identity — Five Local Artists You Need To See At Decadence Arizona",
+   "type": "Artist profile",
+   "url": "https://edmidentity.com/2018/12/20/decadence-arizona-2018-local-artists/"
+  },
+  {
+   "year": "2018",
+   "title": "Artist Interview: 1-on-1 with DJ Brett Ortiz",
+   "type": "Interview",
+   "url": "https://rickyleepotts.com/2018/10/dj-brett-ortiz-interview.html"
+  },
+  {
+   "year": "2017",
+   "title": "Phoenix New Times — Fourth of July parties guide",
+   "type": "Press mention",
+   "url": "https://www.phoenixnewtimes.com/music/phoenix-2017-fourth-july-parties-scottsdale-tempe-9451266"
+  },
+  {
+   "year": "2016",
+   "title": "Relentless Beats — AZ Fam artist profile",
+   "type": "Artist profile",
+   "url": "https://relentlessbeats.com/2016/03/from-az-native-to-big-time-star-who-is-az-fam-artist-brett-ortiz/"
+  },
+  {
+   "year": "2015",
+   "title": "Phoenix New Times — Global Dance Festival field guide",
+   "type": "Festival coverage",
+   "url": "https://www.phoenixnewtimes.com/music/global-dance-festival-2015-a-field-guide-to-the-djs-and-artists-7746683"
+  },
+  {
+   "year": "2013",
+   "title": "Phoenix New Times — Thanksgiving weekend roundup",
+   "type": "Press mention",
+   "url": "https://www.phoenixnewtimes.com/arts-culture/13-must-attend-thanksgiving-weekend-parties-6577715"
+  },
+  {
+   "year": "2013",
+   "title": "Phoenix New Times — Christopher Lawrence @ Sound Kitchen",
+   "type": "Press mention",
+   "url": "https://www.phoenixnewtimes.com/music/seven-nights-of-djs-and-dancing-and-edm-6462786"
+  },
+  {
+   "year": "2012",
+   "title": "Phoenix New Times — How \"Return of the Mack\" Got Him Into Destroying Turntables",
+   "type": "Artist profile",
+   "url": "https://www.phoenixnewtimes.com/music/dj-brett-ortiz-on-how-return-of-the-mack-got-him-into-destroying-turntables-6598562"
+  },
+  {
+   "year": "2012",
+   "title": "Arizona Nightlife Industry Awards — Best EDM DJ nominee",
+   "type": "Accolade",
+   "url": "https://www.arizonafoothillsmagazine.com/nightlife-awards/voting/35.html"
+  },
+  {
+   "year": "2012",
+   "title": "The Brett Ortiz Podcast (2012–2014)",
+   "type": "Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-brett-ortiz-podcast/id499501422"
+  },
+  {
+   "year": "2012",
+   "title": "AZ Foothills — Krewella @ Sound Kitchen preview",
+   "type": "Preview",
+   "url": "https://www.arizonafoothillsmagazine.com/aznightlife/krewella-sound-kitchen/"
+  },
+  {
+   "year": "2012",
+   "title": "AZ Foothills — Wild Knight Fridays photo gallery",
+   "type": "Photo gallery",
+   "url": "https://www.arizonafoothillsmagazine.com/aznightlife/wild-knight-fridays-feat-dj"
+  },
+  {
+   "year": "2012",
+   "title": "AZ Foothills — Midnight Masquerade preview",
+   "type": "Preview",
+   "url": "https://www.arizonafoothillsmagazine.com/aznightlife/midnight-masquerade/"
   }
  ],
  "events": [
@@ -888,112 +1035,6 @@ window.BRETT_DATA = {
     "Party Reaper"
    ],
    "source_url": "https://relentlessbeats.com/events/hometown-heroes-finals"
-  }
- ],
- "press": [
-  {
-   "date": "2026-03-19",
-   "item": "Phoenix New Times guide to Boots in the Park Gilbert",
-   "type": "Press mention",
-   "summary": "Phoenix New Times said music kicks off after gates open with DJ Brett Ortiz performing between sets.",
-   "source_url": "https://www.phoenixnewtimes.com/music/boots-in-the-park-gilbert-2026-lineup-tickets-and-what-to-know-40653165/",
-   "confidence": "High"
-  },
-  {
-   "date": "2022-02-18",
-   "item": "Phoenix New Times concert preview for Sander van Doorn",
-   "type": "Press mention",
-   "summary": "Phoenix New Times named Brett Ortiz, Ghost Effect, and Tyler Kahn as openers for the Sander van Doorn show.",
-   "source_url": "https://www.phoenixnewtimes.com/music/best-phoenix-concerts-this-weekend-february-18-20-mayday-parade-cattle-decapitation-bodeans-13054231/",
-   "confidence": "High"
-  },
-  {
-   "date": "2018-10",
-   "item": "Artist Interview: 1-on-1 with DJ Brett Ortiz",
-   "type": "Interview",
-   "summary": "Ricky Lee Potts published a one-on-one interview with Brett Ortiz.",
-   "source_url": "https://rickyleepotts.com/2018/10/dj-brett-ortiz-interview.html",
-   "confidence": "High"
-  },
-  {
-   "date": "2017-06-26",
-   "item": "Phoenix New Times Fourth of July parties guide",
-   "type": "Press mention",
-   "summary": "Phoenix New Times said Brett Ortiz would open for Deorro at Talking Stick Resort.",
-   "source_url": "https://www.phoenixnewtimes.com/music/phoenix-2017-fourth-july-parties-scottsdale-tempe-9428838/",
-   "confidence": "High"
-  },
-  {
-   "date": "2016-03-28",
-   "item": "Relentless Beats AZ Fam profile",
-   "type": "Artist profile",
-   "summary": "Relentless Beats profiled Brett Ortiz as one of its resident DJs and said he had recently opened for Andrew Rayel and Heatbeat.",
-   "source_url": "https://relentlessbeats.com/2016/03/from-az-native-to-big-time-star-who-is-az-fam-on-the-phoenix-lights-lineup/",
-   "confidence": "High"
-  },
-  {
-   "date": "2015-11-20",
-   "item": "Phoenix New Times field guide for Global Dance Festival 2015",
-   "type": "Festival press mention",
-   "summary": "Phoenix New Times listed Brett Ortiz among local DJs scheduled to perform at Global Dance Festival 2015.",
-   "source_url": "https://www.phoenixnewtimes.com/music/global-dance-festival-2015-a-field-guide-to-tonights-event-in-chandler-7836812/",
-   "confidence": "High"
-  },
-  {
-   "date": "2013-11-27",
-   "item": "Phoenix New Times Thanksgiving weekend roundup",
-   "type": "Press mention",
-   "summary": "Phoenix New Times said DJ Brett Ortiz would spin country and western hits at Whiskey Row from 9 p.m. until close.",
-   "source_url": "https://www.phoenixnewtimes.com/arts-culture/13-must-attend-thanksgiving-weekend-parties-in-metro-phoenix-6558851/",
-   "confidence": "High"
-  },
-  {
-   "date": "2013-03-14",
-   "item": "Phoenix New Times nightlife listing for Christopher Lawrence @ Sound Kitchen",
-   "type": "Press mention",
-   "summary": "Phoenix New Times listed Christopher Lawrence, Frequency Dose, Vertigo, and DJ Brett Ortiz at Wild Knight.",
-   "source_url": "https://www.phoenixnewtimes.com/music/seven-nights-of-djs-and-dancing-and-edm-6457688/",
-   "confidence": "High"
-  },
-  {
-   "date": "2012-2014",
-   "item": "The Brett Ortiz Podcast archive",
-   "type": "Media property / archive",
-   "summary": "Apple Podcasts archive shows the podcast ran 2012–2014 and shows a 5.0 rating from 6 ratings, including RB Radio and Krewella pre-show episodes.",
-   "source_url": "https://podcasts.apple.com/us/podcast/the-brett-ortiz-podcast/id499501422",
-   "confidence": "High"
-  },
-  {
-   "date": "2012-10-03",
-   "item": "Arizona Foothills preview for Midnight Masquerade",
-   "type": "Preview article",
-   "summary": "Arizona Foothills previewed Midnight Masquerade and included Brett Ortiz in the lineup copy.",
-   "source_url": "https://www.arizonafoothillsmagazine.com/aznightlife/midnight-masquerade/",
-   "confidence": "High"
-  },
-  {
-   "date": "2012-09-21",
-   "item": "AZ Foothills photo gallery — Wild Knight Fridays feat. Brett Ortiz & David Miramon",
-   "type": "Photo gallery / nightlife coverage",
-   "summary": "AZ Foothills published a gallery from the Wild Knight event.",
-   "source_url": "https://www.arizonafoothillsmagazine.com/aznightlife/wild-knight-fridays-feat-djs-brett-ortiz-david-miramon/",
-   "confidence": "High"
-  },
-  {
-   "date": "2012-08-24",
-   "item": "Arizona Foothills preview for Krewella @ Sound Kitchen",
-   "type": "Preview article",
-   "summary": "Arizona Foothills previewed the event and named Brett Ortiz as an opening act.",
-   "source_url": "https://www.arizonafoothillsmagazine.com/aznightlife/krewella-sound-kitchen/",
-   "confidence": "High"
-  },
-  {
-   "date": "2012",
-   "item": "Arizona Nightlife Industry Awards — Best EDM DJ nominee/listing",
-   "type": "Accolade / nomination",
-   "summary": "Brett Ortiz appears in the 2012 Arizona Nightlife Industry Awards voting page under Best EDM DJ.",
-   "source_url": "https://www.arizonafoothillsmagazine.com/nightlife-awards/voting/35.html",
-   "confidence": "High"
   }
  ],
  "stats": {

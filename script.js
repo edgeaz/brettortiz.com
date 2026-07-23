@@ -6,7 +6,14 @@ document.addEventListener('pointermove',e=>{const g=$('#cursorGlow');g.style.lef
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.12});$$('.reveal').forEach(x=>io.observe(x));
 const countIO=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const el=e.target,end=+el.dataset.count;let n=0,step=Math.max(1,Math.ceil(end/55));const t=setInterval(()=>{n=Math.min(end,n+step);el.textContent=n+(end===25?'+':'');if(n>=end)clearInterval(t)},22);countIO.unobserve(el)}));$$('[data-count]').forEach(x=>countIO.observe(x));
 
-$('#releaseStrip').innerHTML=(D.releases||[]).map(r=>`<article class="release"><small>${r.type} · ${r.year}</small><strong>${r.title}</strong><a href="${r.spotify}" target="_blank" rel="noopener">OPEN ON SPOTIFY ↗</a></article>`).join('');
+$('#releaseStrip').innerHTML=(D.releases||[]).map(r=>`<article class="release"><small>${r.type} · ${r.year}</small><strong>${r.title}</strong><a href="${r.url||r.spotify}" target="_blank" rel="noopener">${(r.platform||'LISTEN').toUpperCase()} ↗</a></article>`).join('');
+
+function fmtRange(a,b){const o={month:'short',day:'numeric'};const s=new Date(a+'T00:00:00').toLocaleDateString('en-US',o).toUpperCase();if(!b)return s;const e=new Date(b+'T00:00:00').toLocaleDateString('en-US',o).toUpperCase();return`${s} – ${e}`}
+const today=new Date().toISOString().slice(0,10);
+const upcoming=(D.upcoming||[]).filter(u=>(u.end_date||u.date)>=today);
+if(upcoming.length){$('#upcomingGrid').innerHTML=upcoming.map(u=>`<article class="up-card reveal"><div class="up-date"><span>${fmtRange(u.date,u.end_date)}</span><small>${u.date.slice(0,4)}</small></div><div class="up-body"><h3>${u.name}</h3><p>${[u.venue,u.city].filter(Boolean).join(' · ')}</p><div class="up-artists">${(u.artists||[]).slice(0,5).join(' · ')}${(u.artists||[]).length>5?` <span class="more-chip">+${u.artists.length-5} more</span>`:''}</div></div><a class="btn glass up-link" href="${u.url}" target="_blank" rel="noopener">INFO ↗</a></article>`).join('');$$('#upcomingGrid .reveal').forEach(x=>io.observe(x))}else{$('#upcoming').style.display='none'}
+
+$('#pressList').innerHTML=(D.press||[]).map(p=>`<a class="press-row reveal" href="${p.url}" target="_blank" rel="noopener"><span class="press-year">${p.year}</span><strong>${p.title}</strong><span class="press-type">${p.type}</span><span class="press-arrow">↗</span></a>`).join('');$$('#pressList .reveal').forEach(x=>io.observe(x));
 
 const resi=D.residencies||[];
 if(resi.length){const seq=`<span class="resi-item hl">CURRENT RESIDENCIES</span>`+resi.map(r=>`<span class="resi-item">${r.name}</span>`).join('');$('#resiTicker').innerHTML=seq+seq;$('#resiGrid').innerHTML=resi.map(r=>`<div class="resi-card"><strong>${r.name}</strong><span>${r.city}</span></div>`).join('')}else{$('.resi-ticker').style.display='none';$('.resi-title').style.display='none'}
