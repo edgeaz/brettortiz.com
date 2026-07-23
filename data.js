@@ -435,7 +435,10 @@ window.BRETT_DATA = {
    "artists_played_with": [
     "Michael James"
    ],
-   "source_url": "https://www.talkingstickresort.com/amenities/pools/vibe-pool-party-2026/"
+   "source_url": "https://www.talkingstickresort.com/amenities/pools/vibe-pool-party-2026/",
+   "photos": [
+    "assets/photos/2026-06-06-vibe-by-the-pool/01.jpg"
+   ]
   },
   {
    "date": "2026-04-11",
@@ -451,7 +454,11 @@ window.BRETT_DATA = {
     "Kelsey Hart",
     "Daniel Bonte"
    ],
-   "source_url": "https://www.activatedevents.com/event/boots-in-the-park-san-diego/"
+   "source_url": "https://www.activatedevents.com/event/boots-in-the-park-san-diego/",
+   "flyer_image": "assets/photos/2026-04-11-boots-in-the-park-san-diego/01.jpg",
+   "photos": [
+    "assets/photos/2026-04-11-boots-in-the-park-san-diego/01.jpg"
+   ]
   },
   {
    "date": "2026-03-21",
@@ -466,7 +473,20 @@ window.BRETT_DATA = {
     "Mackenzie Carpenter",
     "Kody Raine"
    ],
-   "source_url": "https://www.phoenixnewtimes.com/music/boots-in-the-park-gilbert-2026-lineup-tickets-and-what-to-know-40653165/"
+   "source_url": "https://www.phoenixnewtimes.com/music/boots-in-the-park-gilbert-2026-lineup-tickets-and-what-to-know-40653165/",
+   "flyer_image": "assets/photos/2026-03-21-boots-in-the-park-gilbert/01.jpg",
+   "photos": [
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/01.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/02.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/03.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/04.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/05.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/06.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/07.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/08.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/09.jpg",
+    "assets/photos/2026-03-21-boots-in-the-park-gilbert/10.jpg"
+   ]
   },
   {
    "date": "2025-05-25",
@@ -479,7 +499,36 @@ window.BRETT_DATA = {
     "Crunksworth",
     "Zenlife"
    ],
-   "source_url": "https://relentlessbeats.com/events/benny-benassi-sunbar-052525"
+   "source_url": "https://relentlessbeats.com/events/benny-benassi-sunbar-052525",
+   "photos": [
+    "assets/photos/2025-05-25-benny-benassi/01.jpg",
+    "assets/photos/2025-05-25-benny-benassi/02.jpg",
+    "assets/photos/2025-05-25-benny-benassi/03.jpg",
+    "assets/photos/2025-05-25-benny-benassi/04.jpg",
+    "assets/photos/2025-05-25-benny-benassi/05.jpg",
+    "assets/photos/2025-05-25-benny-benassi/06.jpg",
+    "assets/photos/2025-05-25-benny-benassi/07.jpg",
+    "assets/photos/2025-05-25-benny-benassi/08.jpg",
+    "assets/photos/2025-05-25-benny-benassi/09.jpg",
+    "assets/photos/2025-05-25-benny-benassi/10.jpg",
+    "assets/photos/2025-05-25-benny-benassi/11.jpg",
+    "assets/photos/2025-05-25-benny-benassi/12.jpg",
+    "assets/photos/2025-05-25-benny-benassi/13.jpg",
+    "assets/photos/2025-05-25-benny-benassi/14.jpg",
+    "assets/photos/2025-05-25-benny-benassi/15.jpg",
+    "assets/photos/2025-05-25-benny-benassi/16.jpg",
+    "assets/photos/2025-05-25-benny-benassi/17.jpg",
+    "assets/photos/2025-05-25-benny-benassi/18.jpg",
+    "assets/photos/2025-05-25-benny-benassi/19.jpg",
+    "assets/photos/2025-05-25-benny-benassi/20.jpg",
+    "assets/photos/2025-05-25-benny-benassi/21.jpg",
+    "assets/photos/2025-05-25-benny-benassi/22.jpg",
+    "assets/photos/2025-05-25-benny-benassi/23.jpg",
+    "assets/photos/2025-05-25-benny-benassi/24.jpg",
+    "assets/photos/2025-05-25-benny-benassi/25.jpg",
+    "assets/photos/2025-05-25-benny-benassi/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2024-10-26",
@@ -495,7 +544,19 @@ window.BRETT_DATA = {
     "Peachy Keen",
     "Valerie Stoss"
    ],
-   "source_url": "https://relentlessbeats.com/events/jai-wolf-dark-heart-bentley-scottsdale-polo-championships-westworld-of-scottsdale-102624/"
+   "source_url": "https://relentlessbeats.com/events/jai-wolf-dark-heart-bentley-scottsdale-polo-championships-westworld-of-scottsdale-102624/",
+   "photos": [
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/01.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/02.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/03.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/04.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/05.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/06.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/07.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/08.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/09.jpg",
+    "assets/photos/2024-10-26-jai-wolf-and-dark-heart-bentley-scottsda/10.jpg"
+   ]
   },
   {
    "date": "2024-04-20",
@@ -523,7 +584,16 @@ window.BRETT_DATA = {
     "Materia Blu",
     "Nick Silvestri"
    ],
-   "source_url": "https://relentlessbeats.com/events/emma-hewitt-darkstar-072823"
+   "source_url": "https://relentlessbeats.com/events/emma-hewitt-darkstar-072823",
+   "flyer_image": "assets/photos/2023-07-28-emma-hewitt/01.jpg",
+   "photos": [
+    "assets/photos/2023-07-28-emma-hewitt/01.jpg",
+    "assets/photos/2023-07-28-emma-hewitt/02.jpg",
+    "assets/photos/2023-07-28-emma-hewitt/03.jpg",
+    "assets/photos/2023-07-28-emma-hewitt/04.jpg",
+    "assets/photos/2023-07-28-emma-hewitt/05.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats event page"
   },
   {
    "date": "2023-05-27",
@@ -538,7 +608,36 @@ window.BRETT_DATA = {
     "YAHRA"
    ],
    "source_url": "https://relentlessbeats.com/events/above-beyond-wave-by-release-talking-stick-resort-052723",
-   "flyer_image": "assets/flyers/above-beyond-2023.jpg"
+   "flyer_image": "assets/flyers/above-beyond-2023.jpg",
+   "photos": [
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/01.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/02.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/03.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/04.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/05.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/06.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/07.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/08.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/09.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/10.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/11.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/12.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/13.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/14.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/15.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/16.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/17.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/18.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/19.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/20.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/21.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/22.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/23.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/24.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/25.jpg",
+    "assets/photos/2023-05-27-above-and-beyond-wave-by-release/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2022-12-30",
@@ -569,7 +668,36 @@ window.BRETT_DATA = {
     "Nikita Rising",
     "Sed's Vortex"
    ],
-   "source_url": "https://relentlessbeats.com/events/decadence-arizona-2022-ancient-future-phoenix-raceway-123022"
+   "source_url": "https://relentlessbeats.com/events/decadence-arizona-2022-ancient-future-phoenix-raceway-123022",
+   "photos": [
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/01.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/02.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/03.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/04.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/05.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/06.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/07.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/08.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/09.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/10.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/11.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/12.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/13.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/14.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/15.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/16.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/17.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/18.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/19.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/20.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/21.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/22.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/23.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/24.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/25.jpg",
+    "assets/photos/2022-12-30-decadence-arizona-2022-day-1/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official festival recap"
   },
   {
    "date": "2022-11-04",
@@ -583,7 +711,15 @@ window.BRETT_DATA = {
     "JustChad"
    ],
    "source_url": "https://relentlessbeats.com/events/tritonal-coalesce-tour-sunbar-110422/",
-   "flyer_image": "assets/flyers/tritonal-2022.jpg"
+   "flyer_image": "assets/flyers/tritonal-2022.jpg",
+   "photos": [
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/01.jpg",
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/02.jpg",
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/03.jpg",
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/04.jpg",
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/05.jpg",
+    "assets/photos/2022-11-04-tritonal-coalesce-tour/06.jpg"
+   ]
   },
   {
    "date": "2022-05-06",
@@ -596,7 +732,36 @@ window.BRETT_DATA = {
     "Slick Floyd",
     "Human Music"
    ],
-   "source_url": "https://relentlessbeats.com/events/audien-sunbar-050622/"
+   "source_url": "https://relentlessbeats.com/events/audien-sunbar-050622/",
+   "photos": [
+    "assets/photos/2022-05-06-audien-at-sunbar/01.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/02.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/03.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/04.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/05.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/06.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/07.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/08.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/09.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/10.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/11.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/12.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/13.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/14.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/15.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/16.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/17.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/18.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/19.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/20.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/21.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/22.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/23.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/24.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/25.jpg",
+    "assets/photos/2022-05-06-audien-at-sunbar/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2022-02-19",
@@ -609,7 +774,13 @@ window.BRETT_DATA = {
     "Ghost Effect",
     "Tyler Kahn"
    ],
-   "source_url": "https://relentlessbeats.com/events/sander-van-doorn-shady-park-021922/"
+   "source_url": "https://relentlessbeats.com/events/sander-van-doorn-shady-park-021922/",
+   "flyer_image": "assets/photos/2022-02-19-sander-van-doorn-at-shady-park/01.jpg",
+   "photos": [
+    "assets/photos/2022-02-19-sander-van-doorn-at-shady-park/01.jpg",
+    "assets/photos/2022-02-19-sander-van-doorn-at-shady-park/02.jpg",
+    "assets/photos/2022-02-19-sander-van-doorn-at-shady-park/03.jpg"
+   ]
   },
   {
    "date": "2019-06-22",
@@ -624,7 +795,13 @@ window.BRETT_DATA = {
     "Michael James",
     "Storytime"
    ],
-   "source_url": "https://relentlessbeats.com/events/release-pool-party-local-day-talking-stick-resort-062219/"
+   "source_url": "https://relentlessbeats.com/events/release-pool-party-local-day-talking-stick-resort-062219/",
+   "flyer_image": "assets/photos/2019-06-22-release-pool-party-local-day/01.jpg",
+   "photos": [
+    "assets/photos/2019-06-22-release-pool-party-local-day/01.jpg",
+    "assets/photos/2019-06-22-release-pool-party-local-day/02.jpg",
+    "assets/photos/2019-06-22-release-pool-party-local-day/03.jpg"
+   ]
   },
   {
    "date": "2019-05-04",
@@ -637,7 +814,36 @@ window.BRETT_DATA = {
     "Electric Polar Bears",
     "Medicine Mike"
    ],
-   "source_url": "https://relentlessbeats.com/events/deorro-talking-stick-resort-050419/"
+   "source_url": "https://relentlessbeats.com/events/deorro-talking-stick-resort-050419/",
+   "photos": [
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/01.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/02.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/03.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/04.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/05.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/06.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/07.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/08.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/09.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/10.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/11.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/12.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/13.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/14.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/15.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/16.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/17.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/18.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/19.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/20.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/21.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/22.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/23.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/24.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/25.jpg",
+    "assets/photos/2019-05-04-deorro-at-talking-stick-resort-hotel/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2018-06-23",
@@ -650,7 +856,14 @@ window.BRETT_DATA = {
     "Wax Motif",
     "Tranzit"
    ],
-   "source_url": "https://relentlessbeats.com/events/tiesto-talking-stick-resort-062318/"
+   "source_url": "https://relentlessbeats.com/events/tiesto-talking-stick-resort-062318/",
+   "photos": [
+    "assets/photos/2018-06-23-tiesto-wax-motif-at-talking-stick-resort/01.jpg",
+    "assets/photos/2018-06-23-tiesto-wax-motif-at-talking-stick-resort/02.jpg",
+    "assets/photos/2018-06-23-tiesto-wax-motif-at-talking-stick-resort/03.jpg",
+    "assets/photos/2018-06-23-tiesto-wax-motif-at-talking-stick-resort/04.jpg",
+    "assets/photos/2018-06-23-tiesto-wax-motif-at-talking-stick-resort/05.jpg"
+   ]
   },
   {
    "date": "2018-05-26",
@@ -662,7 +875,36 @@ window.BRETT_DATA = {
     "Kaskade",
     "Slippe"
    ],
-   "source_url": "https://relentlessbeats.com/events/kaskade-talking-stick-resort-052618/"
+   "source_url": "https://relentlessbeats.com/events/kaskade-talking-stick-resort-052618/",
+   "photos": [
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/01.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/02.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/03.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/04.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/05.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/06.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/07.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/08.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/09.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/10.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/11.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/12.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/13.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/14.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/15.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/16.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/17.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/18.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/19.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/20.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/21.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/22.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/23.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/24.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/25.jpg",
+    "assets/photos/2018-05-26-kaskade-at-talking-stick-resort/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2017-12-31",
@@ -670,7 +912,19 @@ window.BRETT_DATA = {
    "venue": "Bevvy",
    "city_state": "Scottsdale, AZ",
    "event_type": "NYE club event",
-   "source_url": "https://www.arizonafoothillsmagazine.com/aznightlife/new-years-eve-phoenix-2018/"
+   "source_url": "https://www.arizonafoothillsmagazine.com/aznightlife/new-years-eve-phoenix-2018/",
+   "photos": [
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/01.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/02.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/03.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/04.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/05.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/06.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/07.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/08.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/09.jpg",
+    "assets/photos/2017-12-31-let-s-get-strange-nye-at-bevvy/10.jpg"
+   ]
   },
   {
    "date": "2017-08-25",
@@ -683,7 +937,18 @@ window.BRETT_DATA = {
     "Highline",
     "J Paul"
    ],
-   "source_url": "https://www.phoenixnewtimes.com/music/phoenix-concerts-august-25-27-dierks-bentley-sylvan-esso-pelican-berlin-9619412/"
+   "source_url": "https://www.phoenixnewtimes.com/music/phoenix-concerts-august-25-27-dierks-bentley-sylvan-esso-pelican-berlin-9619412/",
+   "flyer_image": "assets/photos/2017-08-25-seven-lions-at-the-van-buren/01.jpg",
+   "photos": [
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/01.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/02.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/03.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/04.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/05.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/06.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/07.jpg",
+    "assets/photos/2017-08-25-seven-lions-at-the-van-buren/08.jpg"
+   ]
   },
   {
    "date": "2017-05-27",
@@ -706,7 +971,13 @@ window.BRETT_DATA = {
    "artists_played_with": [
     "Dark Mark"
    ],
-   "source_url": "https://relentlessbeats.com/events/cash-me-ousside-back2back-local-b2b-showcase-monarch-theatre-031817/"
+   "source_url": "https://relentlessbeats.com/events/cash-me-ousside-back2back-local-b2b-showcase-monarch-theatre-031817/",
+   "flyer_image": "assets/photos/2017-03-18-cash-me-ousside-back2back-local-b2b-show/01.jpg",
+   "photos": [
+    "assets/photos/2017-03-18-cash-me-ousside-back2back-local-b2b-show/01.jpg",
+    "assets/photos/2017-03-18-cash-me-ousside-back2back-local-b2b-show/02.jpg",
+    "assets/photos/2017-03-18-cash-me-ousside-back2back-local-b2b-show/03.jpg"
+   ]
   },
   {
    "date": "2016-11-25",
@@ -718,7 +989,36 @@ window.BRETT_DATA = {
     "Darude",
     "SAAS"
    ],
-   "source_url": "https://relentlessbeats.com/events/darude-gypsy-bar-112516/"
+   "source_url": "https://relentlessbeats.com/events/darude-gypsy-bar-112516/",
+   "photos": [
+    "assets/photos/2016-11-25-darude-gypsy-bar/01.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/02.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/03.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/04.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/05.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/06.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/07.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/08.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/09.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/10.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/11.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/12.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/13.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/14.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/15.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/16.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/17.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/18.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/19.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/20.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/21.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/22.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/23.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/24.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/25.jpg",
+    "assets/photos/2016-11-25-darude-gypsy-bar/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2015-11-25",
@@ -730,7 +1030,13 @@ window.BRETT_DATA = {
     "Aly & Fila",
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/aly-fila-monarch-theatre-112515/"
+   "source_url": "https://relentlessbeats.com/events/aly-fila-monarch-theatre-112515/",
+   "flyer_image": "assets/photos/2015-11-25-aly-and-fila-monarch-theatre/01.jpg",
+   "photos": [
+    "assets/photos/2015-11-25-aly-and-fila-monarch-theatre/01.jpg",
+    "assets/photos/2015-11-25-aly-and-fila-monarch-theatre/02.jpg",
+    "assets/photos/2015-11-25-aly-and-fila-monarch-theatre/03.jpg"
+   ]
   },
   {
    "date": "2015-11-20",
@@ -772,7 +1078,36 @@ window.BRETT_DATA = {
     "KhoMha"
    ],
    "source_url": "https://relentlessbeats.com/events/armin-van-buuren-the-pressroom-092615/",
-   "flyer_image": "assets/flyers/armin-2015.jpg"
+   "flyer_image": "assets/flyers/armin-2015.jpg",
+   "photos": [
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/01.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/02.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/03.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/04.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/05.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/06.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/07.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/08.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/09.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/10.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/11.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/12.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/13.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/14.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/15.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/16.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/17.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/18.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/19.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/20.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/21.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/22.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/23.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/24.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/25.jpg",
+    "assets/photos/2015-09-26-armin-van-buuren-the-pressroom/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2014-08-31",
@@ -785,7 +1120,11 @@ window.BRETT_DATA = {
     "Lujan",
     "Wisko"
    ],
-   "source_url": "https://relentlessbeats.com/events/thomas-gold-intl-ldw2014"
+   "source_url": "https://relentlessbeats.com/events/thomas-gold-intl-ldw2014",
+   "flyer_image": "assets/photos/2014-08-31-thomas-gold-intl-ldw2014/01.jpg",
+   "photos": [
+    "assets/photos/2014-08-31-thomas-gold-intl-ldw2014/01.jpg"
+   ]
   },
   {
    "date": "2014-05-25",
@@ -801,7 +1140,11 @@ window.BRETT_DATA = {
     "J VonDutch",
     "DJ NYC"
    ],
-   "source_url": "https://relentlessbeats.com/events/felix-cartal-intl-mdw2014"
+   "source_url": "https://relentlessbeats.com/events/felix-cartal-intl-mdw2014",
+   "flyer_image": "assets/photos/2014-05-25-felix-cartal-intl-mdw2014/01.jpg",
+   "photos": [
+    "assets/photos/2014-05-25-felix-cartal-intl-mdw2014/01.jpg"
+   ]
   },
   {
    "date": "2014-03-21",
@@ -814,7 +1157,11 @@ window.BRETT_DATA = {
     "DJ Tranzit",
     "Jon Amaral"
    ],
-   "source_url": "https://relentlessbeats.com/events/will-sparks-smashboxx/"
+   "source_url": "https://relentlessbeats.com/events/will-sparks-smashboxx/",
+   "flyer_image": "assets/photos/2014-03-21-will-sparks-smashboxx/01.jpg",
+   "photos": [
+    "assets/photos/2014-03-21-will-sparks-smashboxx/01.jpg"
+   ]
   },
   {
    "date": "2014-02-19",
@@ -827,7 +1174,36 @@ window.BRETT_DATA = {
     "Lujan",
     "Fox Three"
    ],
-   "source_url": "https://relentlessbeats.com/events/dash-berlin-intl/"
+   "source_url": "https://relentlessbeats.com/events/dash-berlin-intl/",
+   "photos": [
+    "assets/photos/2014-02-19-dash-berlin-intl/01.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/02.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/03.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/04.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/05.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/06.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/07.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/08.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/09.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/10.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/11.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/12.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/13.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/14.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/15.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/16.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/17.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/18.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/19.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/20.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/21.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/22.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/23.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/24.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/25.jpg",
+    "assets/photos/2014-02-19-dash-berlin-intl/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2013-11-27",
@@ -848,7 +1224,36 @@ window.BRETT_DATA = {
     "Josh Evans",
     "Lander & Droid"
    ],
-   "source_url": "https://relentlessbeats.com/events/bt-relentless-beach-night-swim/"
+   "source_url": "https://relentlessbeats.com/events/bt-relentless-beach-night-swim/",
+   "photos": [
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/01.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/02.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/03.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/04.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/05.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/06.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/07.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/08.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/09.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/10.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/11.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/12.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/13.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/14.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/15.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/16.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/17.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/18.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/19.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/20.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/21.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/22.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/23.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/24.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/25.jpg",
+    "assets/photos/2013-08-03-bt-relentless-beach-night-swim/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2013-07-12",
@@ -860,7 +1265,36 @@ window.BRETT_DATA = {
     "Darude",
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/darude-sound-kitchen/"
+   "source_url": "https://relentlessbeats.com/events/darude-sound-kitchen/",
+   "photos": [
+    "assets/photos/2013-07-12-darude-sound-kitchen/01.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/02.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/03.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/04.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/05.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/06.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/07.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/08.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/09.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/10.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/11.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/12.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/13.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/14.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/15.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/16.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/17.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/18.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/19.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/20.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/21.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/22.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/23.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/24.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/25.jpg",
+    "assets/photos/2013-07-12-darude-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2013-06-14",
@@ -871,7 +1305,35 @@ window.BRETT_DATA = {
    "artists_played_with": [
     "Aly & Fila"
    ],
-   "source_url": "https://relentlessbeats.com/events/aly-fila-sound-kitchen"
+   "source_url": "https://relentlessbeats.com/events/aly-fila-sound-kitchen",
+   "photos": [
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/01.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/02.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/03.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/04.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/05.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/06.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/07.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/08.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/09.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/10.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/11.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/12.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/13.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/14.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/15.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/16.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/17.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/18.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/19.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/20.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/21.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/22.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/23.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/24.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/25.jpg",
+    "assets/photos/2013-06-14-aly-and-fila-sound-kitchen/26.jpg"
+   ]
   },
   {
    "date": "2013-05-31",
@@ -883,7 +1345,36 @@ window.BRETT_DATA = {
     "Ben Gold",
     "Josh Evans"
    ],
-   "source_url": "https://relentlessbeats.com/events/ben-gold-sound-kitchen/"
+   "source_url": "https://relentlessbeats.com/events/ben-gold-sound-kitchen/",
+   "photos": [
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/01.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/02.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/03.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/04.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/05.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/06.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/07.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/08.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/09.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/10.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/11.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/12.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/13.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/14.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/15.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/16.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/17.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/18.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/19.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/20.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/21.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/22.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/23.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/24.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/25.jpg",
+    "assets/photos/2013-05-31-ben-gold-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats recap / Tavits Photography"
   },
   {
    "date": "2013-05-17",
@@ -896,7 +1387,36 @@ window.BRETT_DATA = {
     "Nuck n Futz",
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/alvin-risk-sound-kitchen"
+   "source_url": "https://relentlessbeats.com/events/alvin-risk-sound-kitchen",
+   "photos": [
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/01.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/02.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/03.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/04.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/05.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/06.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/07.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/08.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/09.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/10.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/11.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/12.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/13.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/14.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/15.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/16.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/17.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/18.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/19.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/20.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/21.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/22.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/23.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/24.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/25.jpg",
+    "assets/photos/2013-05-17-alvin-risk-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats recap / Tavits Photography"
   },
   {
    "date": "2013-04-21",
@@ -910,7 +1430,36 @@ window.BRETT_DATA = {
     "Kuntrol",
     "Hemmesphere"
    ],
-   "source_url": "https://relentlessbeats.com/events/bingo-players-relentless-beach-april-2013/"
+   "source_url": "https://relentlessbeats.com/events/bingo-players-relentless-beach-april-2013/",
+   "photos": [
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/01.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/02.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/03.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/04.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/05.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/06.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/07.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/08.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/09.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/10.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/11.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/12.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/13.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/14.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/15.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/16.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/17.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/18.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/19.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/20.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/21.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/22.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/23.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/24.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/25.jpg",
+    "assets/photos/2013-04-21-bingo-players-relentless-beach/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats recap / Tavits Photography"
   },
   {
    "date": "2013-04-07",
@@ -923,7 +1472,11 @@ window.BRETT_DATA = {
     "Tranzit",
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/rb-friends-relentless-beach/"
+   "source_url": "https://relentlessbeats.com/events/rb-friends-relentless-beach/",
+   "flyer_image": "assets/photos/2013-04-07-rb-and-friends-relentless-beach/01.jpg",
+   "photos": [
+    "assets/photos/2013-04-07-rb-and-friends-relentless-beach/01.jpg"
+   ]
   },
   {
    "date": "2013-03-15",
@@ -948,7 +1501,36 @@ window.BRETT_DATA = {
     "Popeska",
     "Michael Elliot"
    ],
-   "source_url": "https://relentlessbeats.com/events/popeska-sound-kitchen/"
+   "source_url": "https://relentlessbeats.com/events/popeska-sound-kitchen/",
+   "photos": [
+    "assets/photos/2013-01-11-popeska-sound-kitchen/01.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/02.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/03.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/04.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/05.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/06.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/07.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/08.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/09.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/10.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/11.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/12.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/13.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/14.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/15.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/16.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/17.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/18.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/19.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/20.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/21.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/22.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/23.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/24.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/25.jpg",
+    "assets/photos/2013-01-11-popeska-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2013-01-04",
@@ -959,7 +1541,11 @@ window.BRETT_DATA = {
    "artists_played_with": [
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/brett-ortiz-lujan-sound-kitchen/"
+   "source_url": "https://relentlessbeats.com/events/brett-ortiz-lujan-sound-kitchen/",
+   "flyer_image": "assets/photos/2013-01-04-brett-ortiz-lujan-sound-kitchen/01.jpg",
+   "photos": [
+    "assets/photos/2013-01-04-brett-ortiz-lujan-sound-kitchen/01.jpg"
+   ]
   },
   {
    "date": "2012-12-31",
@@ -973,7 +1559,36 @@ window.BRETT_DATA = {
     "Turner & Heit",
     "Lujan"
    ],
-   "source_url": "https://relentlessbeats.com/events/wolfgang-gartner-last-dance-nye/"
+   "source_url": "https://relentlessbeats.com/events/wolfgang-gartner-last-dance-nye/",
+   "photos": [
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/01.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/02.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/03.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/04.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/05.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/06.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/07.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/08.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/09.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/10.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/11.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/12.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/13.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/14.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/15.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/16.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/17.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/18.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/19.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/20.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/21.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/22.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/23.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/24.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/25.jpg",
+    "assets/photos/2012-12-31-wolfgang-gartner-last-dance-nye-2013/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap / MDK Media"
   },
   {
    "date": "2012-12-21",
@@ -985,7 +1600,11 @@ window.BRETT_DATA = {
     "Michael James",
     "Wisko"
    ],
-   "source_url": "https://relentlessbeats.com/events/rb-xmas-2012/"
+   "source_url": "https://relentlessbeats.com/events/rb-xmas-2012/",
+   "flyer_image": "assets/photos/2012-12-21-rb-xmas-2012-sound-kitchen/01.jpg",
+   "photos": [
+    "assets/photos/2012-12-21-rb-xmas-2012-sound-kitchen/01.jpg"
+   ]
   },
   {
    "date": "2012-10-26",
@@ -997,7 +1616,36 @@ window.BRETT_DATA = {
     "Sydney Blu",
     "Bayside High"
    ],
-   "source_url": "https://relentlessbeats.com/events/sydney-blu-sound-kitchen-october-2012/"
+   "source_url": "https://relentlessbeats.com/events/sydney-blu-sound-kitchen-october-2012/",
+   "photos": [
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/01.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/02.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/03.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/04.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/05.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/06.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/07.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/08.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/09.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/10.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/11.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/12.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/13.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/14.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/15.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/16.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/17.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/18.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/19.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/20.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/21.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/22.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/23.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/24.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/25.jpg",
+    "assets/photos/2012-10-26-sydney-blu-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2012-10-20",
@@ -1011,7 +1659,36 @@ window.BRETT_DATA = {
     "Skull Kids",
     "Ecotek"
    ],
-   "source_url": "https://relentlessbeats.com/events/midnight-masquerade/"
+   "source_url": "https://relentlessbeats.com/events/midnight-masquerade/",
+   "photos": [
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/01.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/02.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/03.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/04.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/05.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/06.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/07.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/08.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/09.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/10.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/11.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/12.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/13.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/14.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/15.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/16.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/17.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/18.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/19.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/20.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/21.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/22.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/23.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/24.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/25.jpg",
+    "assets/photos/2012-10-20-midnight-masquerade-ft-tommy-trash-alvin/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2012-09-21",
@@ -1022,7 +1699,36 @@ window.BRETT_DATA = {
    "artists_played_with": [
     "David Miramon"
    ],
-   "source_url": "https://relentlessbeats.com/events/david-miramon-brett-ortiz-sound-kitchen/"
+   "source_url": "https://relentlessbeats.com/events/david-miramon-brett-ortiz-sound-kitchen/",
+   "photos": [
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/01.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/02.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/03.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/04.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/05.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/06.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/07.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/08.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/09.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/10.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/11.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/12.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/13.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/14.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/15.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/16.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/17.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/18.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/19.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/20.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/21.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/22.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/23.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/24.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/25.jpg",
+    "assets/photos/2012-09-21-david-miramon-brett-ortiz-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Arizona Foothills / photography by Tavit Daniels; Relentless Beats recap"
   },
   {
    "date": "2012-09-14",
@@ -1035,7 +1741,36 @@ window.BRETT_DATA = {
     "Tranzit"
    ],
    "source_url": "https://relentlessbeats.com/events/krewella-sound-kitchen/",
-   "flyer_image": "assets/flyers/krewella-2012.jpg"
+   "flyer_image": "assets/flyers/krewella-2012.jpg",
+   "photos": [
+    "assets/photos/2012-09-14-krewella-sound-kitchen/01.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/02.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/03.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/04.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/05.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/06.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/07.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/08.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/09.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/10.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/11.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/12.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/13.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/14.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/15.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/16.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/17.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/18.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/19.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/20.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/21.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/22.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/23.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/24.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/25.jpg",
+    "assets/photos/2012-09-14-krewella-sound-kitchen/26.jpg"
+   ],
+   "photo_credit_public": "Relentless Beats official recap"
   },
   {
    "date": "2012-08-11",
@@ -1054,7 +1789,11 @@ window.BRETT_DATA = {
     "The Agency",
     "Party Reaper"
    ],
-   "source_url": "https://relentlessbeats.com/events/hometown-heroes-finals"
+   "source_url": "https://relentlessbeats.com/events/hometown-heroes-finals",
+   "flyer_image": "assets/photos/2012-08-11-hometown-heroes-finals/01.jpg",
+   "photos": [
+    "assets/photos/2012-08-11-hometown-heroes-finals/01.jpg"
+   ]
   }
  ],
  "stats": {
