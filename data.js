@@ -30,7 +30,7 @@ window.BRETT_DATA = {
   },
   {
    "name": "Party in the Park",
-   "city": "Albuquerque, NM"
+   "city": "Touring Festival"
   }
  ],
  "socials": [],
